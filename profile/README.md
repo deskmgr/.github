@@ -1,1 +1,1 @@
-![Desktop Management Social Image](https://raw.githubusercontent.com/deskmgr/.github/profile/assets/social.png)
+![Desktop Management Social Image](https://raw.githubusercontent.com/deskmgr/.github/profile/assets/Desktop Management - Social Image.png)
